@@ -1,0 +1,17 @@
+path: C:\Smart_Traffic_Violation_Detection\dataset
+
+train: train/images
+val: valid/images
+
+nc: 10
+names:
+  0: green_light
+  1: no_helmet
+  2: red_light
+  3: bus
+  4: car
+  5: no_helmet
+  6: motorcycle
+  7: person
+  8: truck
+  9: van
