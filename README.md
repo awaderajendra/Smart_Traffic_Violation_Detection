@@ -56,6 +56,18 @@ Smart_Traffic_Violation_Detection/
 
 |--violation_detector.py
 
+|--main.py
+
+|--predict.py
+
+|--streamlit_app.py
+
+|--train.py
+
+|--gitignore
+
+|--data.yaml
+
 |--traffic.jpg
 
 |--yolo8n.pt
